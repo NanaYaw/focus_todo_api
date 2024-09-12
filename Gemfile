@@ -8,7 +8,7 @@ gem 'rails', '~> 7.1.4'
 # gem "jbuilder"
 # gem "redis", ">= 4.0.1"
 # gem "kredis"
-# gem "bcrypt", "~> 3.1.7"
+gem 'bcrypt'
 
 gem 'bootsnap', require: false
 gem 'tzinfo-data', platforms: %i[windows jruby]
